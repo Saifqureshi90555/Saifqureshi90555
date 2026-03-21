@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+I am Saif Abid, a results-driven Full-Stack Developer specializing in building scalable, user-centric mobile applications. With a strong foundation in Object-Oriented Programming (C++) and modern JavaScript frameworks, I bridge the gap between complex backend logic and intuitive frontend design.<br><br>💻 Technical Proficiency<br>Mobile Development: Expert-level proficiency in React Native and Expo for cross-platform application development.<br><br>Backend & Database: Skilled in architecting real-time databases and authentication flows using Supabase.<br><br>Software Engineering: Deep understanding of OOP principles (Encapsulation, Inheritance, Polymorphism) and systems design in C++.<br><br>Data Intelligence: Academic and practical focus on Data Science methodologies, including Data Mining and structured data analysis.<br><br>🛠️ Featured Projects & Experience<br>University Cafe Management System<br>Designed and deployed a full-stack mobile application to streamline campus dining.<br><br>Implemented a dynamic menu system, real-time ordering, and backend hosting integration.<br><br>Focused on high-performance UI and seamless state management.<br><br>C++ Systems Architecture<br>Developed complex simulations and class-based architectures using advanced C++ techniques.<br><br>Focused on memory management, constructors, and modular software design.<br><br>Corporate Internship (Abbott - Sales & Services)<br>Applied analytical thinking within a professional corporate environment, gaining insights into service-driven technical requirements and departmental operations.<br><br>🎓 Academic & Global Focus<br>Continuous Learning: Deepening expertise in International Relations and Communication & Media Science, bringing a unique global perspective to technical problem-solving.<br><br>Global Governance: Knowledgeable in international frameworks such as the UNFCCC and Kyoto Protocol, integrating sustainability and ethics into digital solutions.<br><br>📬 Let's Connect<br>🔭 Current Goal: Mastering advanced deployment pipelines and cloud-native hosting strategies.<br><br>💬 Expertise: Ask me about React Native hooks, Supabase edge functions, or C++ class structures.<br><br>🌱 Evolution: Moving beyond basic development into high-level system architecture and data-driven decision-making.
 
-<!--
-**Saifqureshi90555/Saifqureshi90555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saifqureshi905) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-abid-8171bb361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifabid552@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saifqureshi90555&theme=moltack&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Saifqureshi90555&theme=moltack&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifqureshi90555&theme=moltack&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saifqureshi90555&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Saifqureshi90555&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Saifqureshi90555&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
